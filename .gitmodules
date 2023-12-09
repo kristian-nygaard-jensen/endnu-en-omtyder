@@ -1,0 +1,3 @@
+[submodule "skulder"]
+	path = skulder
+	url = git@github.com:rachelwiles/GoT-Check.git
